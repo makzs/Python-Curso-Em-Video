@@ -1,0 +1,8 @@
+frase = str(input('Insira sua frase: ')).strip()
+frase = frase.upper()
+print('Quantas vezes aparece a letra A: ')
+print(frase.count('A'))
+print('qual a primeira posição aparece a letra A:')
+print(frase.find('A'))
+print('Qual a ultima posição de A: ')
+print(frase.rfind('A'))

@@ -1,0 +1,166 @@
+Esses códigos foram meus primeiros códigos em python e em uma linguagem de programação
+realizei durante o ano de 2022 seguindo o curso completo do canal Curso em video
+-> https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6
+
+Estou realizando o upload no github apenas agora em 2024 onde estou me aprofundando mais e mais 
+em linguagens de programação e em outros recursos como o proprio git
+
+Guia da minha pasta das aulas do Curso em video:
+
+            AULAS
+
+aula 0 a 5 -> Conceitos teoricos basicos
+aula 06 -> Tipos primitivos (numerico, alfabeto, maiusculo, minusculo)
+aula 07 -> Conceitos matematicos e de soma de strings
+aula 08 -> Modulos, imports
+aula 09 -> Tratamento de string e manipulação de texto
+aula 10 -> Condições (if, else)
+aula 11 -> Cores terminal
+aula 12 -> Condições aninhadas (elif)
+aula 13 -> Laço (estrutura de repetição) for
+aula 14 -> Laço (estrutura de repetição) while
+aula 15 -> Interrompendo while
+aula 16 -> Tuplas
+aula 17 -> Listas
+aula 18 -> Listas parte 2 o inimigo agora é outro
+aula 19 -> Dicionarios
+aula 20 -> Funções (def)
+aula 21 -> Funções parte 2
+aula 22 -> Modulos e pacotes
+aula 23 -> Tratamento de erros e exceções
+
+         EXERCICIOS
+
+Aula 0 a 5
+    Ex 02 -> print
+Aula 06
+    Ex 03 -> soma simples
+    Ex 04 -> dissecando variavel (comandos de identificação de string/numero)
+Aula 07
+    Ex 05 -> sucessor e antecessor
+    Ex 06 -> dobro triplo raiz quadrada
+    Ex 07 -> media de 2 notas
+    Ex 08 -> converção centimetro milimetros quilometros km
+    Ex 09 -> tabuada
+    Ex 10 -> compra/converção real pra dolar
+    Ex 11 -> altura e largura de parede pra area e litros de tinta
+    Ex 12 -> % (porcentagem) de desconto em produto/valor
+    Ex 13 -> aumento de % (porcentagem) de salario/valor
+    Ex 14 -> graus celsius (C°) converção/converter pra Fahrenheit (F)
+    Ex 15 -> pagamento de dias alugados e km rodados
+Aula 08
+    Ex 16 -> modulo math pra achar parte inteira de um numero
+    Ex 17 -> calculo de hipotenusa com e sem modulo math
+    Ex 18 -> seno cosseno e tangente com modulo math
+    Ex 19 -> sortear numero/valor com modulo random
+    Ex 20 -> embaralhar/sortear ordem de numero/valor com modulo random
+    Ex 21 -> tocar musica que tenha no pc com modulo pygame
+Aula 09
+    Ex 22 -> comandos de textos/string (upper,lower,count)
+    Ex 23 -> analisar o numero e separar em unidade, dezena, centena, milhar...
+    Ex 24 -> verificando primerias letras de uma string/texto
+    Ex 25 -> procura uma sting dentro de outra
+    Ex 26 -> comandos de contar, verificar e analisar uma string
+    Ex 27 -> dividindo/repartindo strings
+Aula 10
+    Ex 28 -> adivinhação de numero
+    Ex 29 -> verificação de velocidade de um carro (verificar numero maior)
+    Ex 30 -> par ou impar
+    Ex 31 -> calcular preço dependendo da distancia
+    Ex 32 -> verificar se o ano é bissexto
+    Ex 33 -> verificar maior numero
+    Ex 34 -> aumento de % (porcentagem) de salario dependendo de quanto vc ganha
+    Ex 35 -> verificar se as retas formam um triangulo
+Aula 11
+Aula 12
+    Ex 36 -> calcular prestação baseado no salario e valor da casa
+    Ex 37 -> converter numero pra octal, binario e hexadecimal
+    Ex 38 -> analisar dois numeros e trazer qual o maior ou se são iguais
+    Ex 39 -> verificar idades recebendo o ano de nascimento
+    Ex 40 -> media de duas notas com resposta de aprovado e reprovado
+    Ex 41 -> define categoria de natação dependendo da idade da pessoa (ano de nascimento)
+    Ex 42 -> verifica se as retas podem formar um triangulo e define qual tipo de triangulo (equilatero, isosceles,escaleno)
+    Ex 43 -> verifica o peso de uma pessoa
+    Ex 44 -> loja virtual calcula o preço dependendo dos metodo de pagamento
+    Ex 45 -> jogo de pedra papel tesoura
+Aula 13
+    Ex 46 -> contagem de numero até o "ano novo"
+    Ex 47 -> analisar e listar numeros pares de uma determinada medida
+    Ex 48 -> soma dos impares multiplos de 3 de uma determinada medida
+    Ex 49 -> tabuada 2.0
+    Ex 50 -> analisar e listar numeros pares de uma determinada medida 2.0
+    Ex 51 -> progressao aritimetica
+    Ex 52 -> verifica se é um numero é primo
+    Ex 53 -> verifica se é palindromo
+    Ex 54 -> conta quantas pessoas maiores e quantas menores de idade
+    Ex 55 -> analisa varios pesos e fala qual a pessoa mais pesada e qual mais leve
+    Ex 56 -> verifica o mais velho, a media de idades, e quantidades de mulheres
+Aula 14
+    Ex 57 -> registrar string até que esteja correta no parametro que pede
+    Ex 58 -> jogo de adivinhação com contador de tentativas
+    Ex 59 -> terminal matematico, escolha se quer somar, multiplar, maior menor numeros
+    Ex 60 -> calcular fatorial
+    Ex 61 -> progressao aritimetica 2.0
+    Ex 62 -> super progressao aritimetica 3.0
+    Ex 63 -> Sequencia de fibonacci
+    Ex 64 -> contador de numero digitados e soma entre eles até mandar parar
+    Ex 65 -> media maior e menor de numeros até mandar parar
+Aula 15
+    Ex 66 -> contador de numero digitados e soma entre eles até mandar parar com while
+    Ex 67 -> tabuada 3.0
+    Ex 68 -> jogo par ou impar
+    Ex 69 -> cadastro de pessoas até mandar parar, contando maiores de idade, homens e mulheres
+    Ex 70 -> loja que calcula total gasto, produtos caros e produto mais barato
+    Ex 71 -> caixa eletronico virtual que calcula quantidade de notas de 50, 20, 10, 5, 1 reais até atingir o valor desejado
+Aula 16
+    Ex 72 -> insira um numero que voce recebe ele escrito por extenso
+    Ex 73 -> lista de times com tecnicas de string
+    Ex 74 -> lista de numeros aleatorios
+    Ex 75 -> contagem se definidos numero aparecem em numeros insiridos
+    Ex 76 -> lista bem feita de produtos e preços
+    Ex 77 -> separa as vogais de determinadas palavras/strings
+Aula 17
+    Ex 78 -> lista com for que mostra maior valor
+    Ex 79 -> lista que nao aceita valores iguais
+    Ex 80 -> organiza valores numa lista em ordem crescente
+    Ex 81 -> lista que conta quantos valores foram adicionados
+    Ex 82 -> lista que nao aceita valores repetidos e mostra valores pares e impares
+    Ex 83 -> programa que le se a expressão esta certa (mesma quantidades de parenteses)
+Aula 18
+    Ex 84 -> registra quantas pessoas quiser dizendo o maior e o menor peso
+    Ex 85 -> lista dentro da lista de numeros pares e impares
+    Ex 86 -> Matriz
+    Ex 87 -> Matriz 2.0
+    Ex 88 -> sorteando jogos da mega sena
+    Ex 89 -> boletim com listas compostas
+Aula 19
+    Ex 90 -> dicionario de aluno aprovado ou reprovado
+    Ex 91 -> jogo de dados
+    Ex 92 -> cadastro de trabalhador
+    Ex 93 -> cadastro de jogador de futebol
+    Ex 94 -> cadastro de pessoas calculando a media de idades e outras informações
+    Ex 95 -> cadastro de jogador de futebol 2.0
+Aula 20
+    Ex 96 -> calculo de area usando funções
+    Ex 97 -> funções para string
+    Ex 98 -> contagem de numeros usando funções
+    Ex 99 -> analisando maiores valores usando funções
+    Ex 100 -> sortear e somar pares usando funções
+Aula 21
+    Ex 101 -> calculando idade de votação usando funções
+    Ex 102 -> fatorial usando funções
+    Ex 103 -> ficha de jogador de futebol usando funções
+    Ex 104 -> função para verificar se valor é numerico
+    Ex 105 -> função de avaliação de notas
+    Ex 106 -> pyhelp com cores
+Aula 22
+    Ex 107 -> preços de produtos usando funções e pacotes
+    Ex 108 -> preços de produtos usando funções e pacotes 2.0
+    Ex 109 -> preços de produtos usando funções e pacotes 3.0
+    Ex 110 -> preços de produtos usando funções e pacotes 4.0
+    EX 111 -> preços de produtos usando funções e pacotes 5.0
+    Ex 112 -> preços de produtos usando funções e pacotes 6.0
+Aula 23
+    Ex 113 -> funções aprofundadas
+    Ex 114 -> site acessivel
+    Ex 115 -> menu com varias funcionalidades usando funções
